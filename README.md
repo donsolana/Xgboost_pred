@@ -1,3 +1,3 @@
 # Xgboost Prediction 
 
-This project contains xgboost dev and deployement
+This project contains xgboost dev and deployment
